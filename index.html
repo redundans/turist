@@ -2,4 +2,39 @@
 layout: default
 ---
 
-<h1 class="text-white text-4xl font-semibold">Jekyll Starter Tailwind</h1>
+<p class="my-6 opacity-75 lg:text-center">{{ site.description }}</p>
+
+<hr class="mt-12 w-20 border-black border-t-4" />
+
+<div>
+	<ul class="list-none m-0 p-0">
+		{% for post in paginator.posts %}
+		<li class="my-10">
+			<a href="{{ post.url }}" alt="{{ post.title }}">
+				{{ post.excerpt }}
+			</a>
+		</li>
+
+		<hr class="mt-12 w-20 border-black border-t-4" />
+		{% endfor %}
+	</ul>
+</div>
+
+<!-- Pagination links -->
+<div class="pagination flex my-10 -mx-5 text-lg">
+	{% if paginator.previous_page %}
+	  <a href="{{ paginator.previous_page_path }}" class="previous underline hover:no-underline mx-5" alt="Länk till föregående sida">
+		Föregående
+	  </a>
+	{% else %}
+	  <span class="previous mx-5 opacity-50">Föregående</span>
+	{% endif %}
+	<span class="page_number ">
+	  Sida {{ paginator.page }} av {{ paginator.total_pages }}
+	</span>
+	{% if paginator.next_page %}
+	  <a href="{{ paginator.next_page_path }}" class="next underline hover:no-underline mx-5" alt="Länk till nästa sida"">Nästa</a>
+	{% else %}
+	  <span class="next mx-5">Nästa</span>
+	{% endif %}
+  </div>

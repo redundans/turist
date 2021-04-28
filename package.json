@@ -1,13 +1,13 @@
 {
-  "name": "jekyll-starter-tailwind",
-  "version": "6.0.0",
-  "description": "A starter kit for using Tailwind with Jekyll",
+  "name": "turist",
+  "version": "1.0.0",
+  "description": "A theme for using Tailwind with Jekyll",
   "main": "gulpfile.babel.js",
   "devDependencies": {
     "autoprefixer": "9.8.6",
     "babel-preset-env": "1.7.0",
     "babel-register": "6.26.0",
-    "browser-sync": "2.26.13",
+    "browser-sync": "^2.26.14",
     "cross-env": "7.0.2",
     "cross-spawn": "7.0.3",
     "cssnano": "4.1.10",
@@ -23,15 +23,8 @@
     "dev": "cross-env NODE_ENV=development gulp serve",
     "start": "npm run dev"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/taylorbryant/jekyll-starter-tailwind.git"
-  },
-  "author": "Taylor Bryant",
+  "author": "The Turist",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/taylorbryant/jekyll-starter-tailwind/issues"
-  },
   "publishConfig": {
     "access": "public"
   }

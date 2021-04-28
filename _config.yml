@@ -1,15 +1,31 @@
-title: Tailwind Jekyll Starter Kit
-description: A starter kit for using Tailwind with Jekyll
+title: Turist
+description: "Reseanteckningar från det permanenta äventyret."
+
+excerpt_separator: <!--more-->
+
+paginate: 5
+paginate_path: "/sida:num/"
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - gulpfile.babel.js
-  - LICENSE.md
   - node_modules
   - package.json
   - package-lock.json
   - README.md
   - src
   - tailwind.config.js
-  - netlify.toml
+
+plugins:
+  - jekyll-paginate
+
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
