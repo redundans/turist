@@ -13,7 +13,7 @@ module.exports = {
         'display': [ 'Hyperlegible' ]
       },
     	colors: {
-    		'base' : '#F6F6F6',
+    		'base' : '#FAF5ED',
         'black' : '#092335',
     	}
     },
