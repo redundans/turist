@@ -6,19 +6,13 @@ excerpt_separator: <!--more-->
 
 # Bok: A History of the World in Seven Cheap Things - del 1
 
-Pretantion: En intellektuellt hederlig debatt bygger på att man söker upp sin motståndares bästa argument, försöker förstå dem för att sedan, om möjligt, angripa dem. Modus Operandi för **Leigh Phillips** tycks vara det diametralt motsatta.
+För att följa upp **Leigh Phillips** nyanserar vi nu i cirkeln med lite Marxism och världssystemsteori. I A History of the World in Seven Cheap Things försöker Moore Jason Moore och Raj Patel förklara hur kapitalets utkanter egentligen också är dess epicentrum.
 
 <!--more-->
 
-Genomgående i boken är att han försöker göra perifera personer eller åsikter till företrädare för breda och teoretiskt diversifierade rörelser. Nästa steg är att medvetet missförstå rörelsen genom att godtyckligt leta reda på retoriska figurer, förenklat språk eller de allra svagaste argumenten. För att till slut nöja sig med att göra sig lustig över dessa med ressentimentfull moralism och höhö-jargong.
-
-Det är än så länge (kapitel 1-5) en underhållande bok. Men för det mesta framstår Phillips som en intellektuell pajas som varken lyckas förstå tillväxtkritikens argument eller formulera sina egna ståndpunkter särskilt väl.
-
-*Här kommer noter från min egna tendentiösa och intellektuellt ohederliga läsning av Phillips bok.*
-
 ## Introduktion
 
-Jason Moore och Raj Patel börjar med att påpeka att vi står inför en unik historisk situation i och med den sjätte massutrotningen och klimatuppvärmningen. De menar att vad som skiljer detta från lokala miljökatastrofer som orsakats av människan eller utredningen av t.ex. mammuten är, kapitalismen.
+Moore och Patel börjar med att påpeka att vi står inför en unik historisk situation i och med den sjätte massutrotningen och klimatuppvärmningen. De menar att vad som skiljer detta från lokala miljökatastrofer som orsakats av människan eller utredningen av t.ex. mammuten är, kapitalismen.
 
 I den här boken kommer Moore och Patel berätta hur det moderna kapitalistiska samhället växte fram ut sju billigheter: natur, pengar, arbete, omsorg, mat, energi och liv.
 
