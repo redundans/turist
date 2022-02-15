@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="opacity-75">
+<div>
 	<p>{{ site.description }}<br/>
-	Ingen tracking, ingen reklam och inga kakor.</p>
+	Ingen spårning, ingen reklam och inget tjaffs.</p>
 </div>
 
 <div>
@@ -35,7 +35,7 @@ layout: default
 	  Sida {{ paginator.page }} av {{ paginator.total_pages }}
 	</span>
 	{% if paginator.next_page %}
-	  <a href="{{ paginator.next_page_path }}" class="next underline hover:no-underline mx-5" alt="Länk till nästa sida"">Nästa</a>
+	  <a href="{{ paginator.next_page_path }}" class="next underline hover:no-underline mx-5" alt="Länk till nästa sida">Nästa</a>
 	{% else %}
 	  <span class="next mx-5">Nästa</span>
 	{% endif %}
