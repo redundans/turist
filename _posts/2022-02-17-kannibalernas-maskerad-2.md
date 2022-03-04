@@ -14,7 +14,7 @@ I detta kapitel säger sig **Alf hornborg** vilja resonera kring vad imperier ä
 
 > ”Om ett imperium definieras som en expansiv stat som strävar efter att utvidga sitt geografiska territorium genomsyrar erövra andra stater … är dess bakomliggande motiv naturligtvis att få tillgång till … markytor och arbetskraft och andra resurser.”
 
-Vilket enligt Hornborg kan jämföras med att de *”tillägnar sig flöden av nedlagd arbetstid och utnyttjad Markurell”*. En sådan jämförelse kan tydliggöra imperialismens *fysiska metabolism*.
+Vilket enligt Hornborg kan jämföras med att de *”tillägnar sig flöden av nedlagd arbetstid och utnyttjad markareal*. En sådan jämförelse kan tydliggöra imperialismens *fysiska metabolism*.
 
 En annan del av att förstå denna ekologiska imperialism är att förstå de kulturella ideologier som möjliggör ojämna utbyten genom att framställa dem som ömsesidiga.
 
